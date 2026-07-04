@@ -22,6 +22,7 @@ public class NumberArray {
             array[i] = scanner.nextInt();
             i++;
         }
+
         System.out.print("Property list: ");
 
         for (int j = 0; j < array.length; j++) {
